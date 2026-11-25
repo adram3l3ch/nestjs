@@ -7,3 +7,6 @@
 [submodule "nestjs-microservices"]
 	path = nestjs-microservices
 	url = git@github.com:adram3l3ch/nestjs-microservices.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:adram3l3ch/postgresql.git
